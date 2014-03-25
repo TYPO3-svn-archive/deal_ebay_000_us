@@ -1,3 +1,13 @@
+0.1.2
+  2014-03-24
+  Bugfix
+  * #i0003: Trim values of tx_deal_ebayshippingservicecode_000
+
+0.1.1
+  2014-03-24
+  Improvement
+  * #i0002: Extension description
+
 0.1.0
   2014-03-24
   Initial Release
