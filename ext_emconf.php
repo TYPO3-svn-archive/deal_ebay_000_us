@@ -5,7 +5,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'description' => 'Import the needed ebay values for the US marketplace! Import is done while enabling this extension. Values are needed by Deal! See: http://typo3-deal.de/typo3conf/ext/deal_ebay_000_us/doc/manual.pdf',
 	'category' => 'be',
 	'shy' => 0,
-	'version' => '0.1.2',
+	'version' => '1.0.0',
 	'dependencies' => '',
 	'conflicts' => '',
 	'priority' => '',
@@ -24,7 +24,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'CGLcompliance_note' => '',
 	'constraints' => array(
 		'depends' => array(
-			'typo3' => '4.5.0-6.1.99',
+			'typo3' => '4.5.0-6.2.99',
 		),
 		'conflicts' => array(
 		),
