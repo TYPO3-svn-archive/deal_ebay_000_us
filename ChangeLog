@@ -1,6 +1,13 @@
+1.0.1
+  2016-01-17
+  Bugfix
+  * #i0005: tx_deal_ebayshippingservicecode_000:
+            * " '," is moved to "',"
+            * " ')," is moved to "'),"
+
 1.0.0
   2014-10-12
-  Improvemnet
+  Improvement
   * #i0004: Update for TYPO3 6.2
 
 0.1.2
